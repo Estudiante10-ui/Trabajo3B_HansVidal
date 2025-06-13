@@ -20,7 +20,7 @@ El proyecto contiene las siguientes páginas:
 - Perfil
 - Mascota
 - Alertas
-- Rastraer
+- Rastrear
 
 ## Instrucciones de Instalación
 
