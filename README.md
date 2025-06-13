@@ -20,13 +20,13 @@ El proyecto contiene las siguientes páginas:
 - Perfil
 - Mascota
 - Alertas
-- Buscar
+- Rastraer
 
 ## Instrucciones de Instalación
 
 1. descarga este repositorio y accede a la carpeta del proyecto:
 
-    cd pettracker
+    cd Trabajo3B_HansVidal
 
 2. Instala las dependencias necesarias:
 
